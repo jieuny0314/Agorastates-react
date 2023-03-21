@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('images/monteray.jpeg');
+  background-size: cover;
+}
